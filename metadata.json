@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Class SDN Banyurip - Kelas 4",
+  "description": "Aplikasi Web Terpadu Administrasi Kelas, Portal Materi Kurikulum Merdeka, Game Belajar Nusantara Ilmu, dan Grafik Hasil Belajar Kelas 4 SDN Banyurip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
